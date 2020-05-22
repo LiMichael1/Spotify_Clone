@@ -1,2 +1,2 @@
-# Spotify_Clone
+# Spotify Clone
 Spotify Clone in PHP and Javascript 
